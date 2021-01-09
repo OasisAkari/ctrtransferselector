@@ -28,6 +28,9 @@ $('button.group').on('click', function() {
       $('#download').show()
       $('.donate').show()
     }
+  } else {
+    $('#download').show()
+    $('.donate').show()
   }
 
   if ($(''))
